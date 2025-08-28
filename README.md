@@ -25,5 +25,5 @@ This project allows users to add, edit, delete, and filter financial records, wh
 
 # Income Expense Calculator
 
-![App Screenshot](assets/Screenshot 2025-08-28 233153)
+![App Screenshot](assets/Screenshot 2025-08-28 233153.png)
 ---
