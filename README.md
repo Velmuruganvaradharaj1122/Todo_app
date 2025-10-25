@@ -17,10 +17,4 @@ This project allows users to add, edit, delete, and filter financial records, wh
 - TailwindCSS  
 - JavaScript 
 
-## Usage
-1. Open `index.html` in a browser.
-2. Add your income or expense.
-3. Use filters to view specific records.
-4. Refresh the page — your data persists.
-
 ---
